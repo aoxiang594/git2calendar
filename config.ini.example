@@ -1,0 +1,17 @@
+[calendars]
+work = 工作
+life = 人生体验推进计划
+
+[repositories]
+work_repo1 = /git_path/work_repo1
+work_repo2 = /git_path/work_repo2
+life_repo1 = /git_path/life_repo1
+
+[mapping]
+work_repo1 = work
+work_repo2 = work
+life_repo1 = life
+
+[api]
+client_id = <YOUR_CLIENT_ID>
+client_secret = <YOUR_CLIENT_SECRET>
